@@ -1,14 +1,9 @@
 # Face-Recognition-SDK     99.8% on LFW
 
-Robust and high accurate Face Recognition SDKs for Android and Windows  (Color & Infrared)
+Face Recognition SDK for eKYC, Identify Verification & Face Attendance.  (Mask & Liveness Detection)
 
-    - Android, Windows
-    - 1 : 1, 1 : N Verification
-    - Real-time Recognition
-    - 99.8% on LFW
+https://user-images.githubusercontent.com/80960135/132506120-5d7afdc7-e489-4ec0-b5a2-5ca7e5fa5b31.mp4
 
 Contact me if you have any questions. (skype- live:turing311)
 
-![Demo Video](https://github.com/Nikit333/Face-Recognition-SDK/raw/main/video.gif)
-
-Updated: 2021.6.12
+Updated: 2021.09.08
